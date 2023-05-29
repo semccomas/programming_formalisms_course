@@ -6,7 +6,7 @@
 
 ## Overview
 
-```plantuml
+```plantUML
 @startuml
 start
 :define parameters;
@@ -17,7 +17,5 @@ repeat while (simulation time is met) is (no)
 -> yes;
 :figure plotting;
 end
-
 @enduml
-
 ```
